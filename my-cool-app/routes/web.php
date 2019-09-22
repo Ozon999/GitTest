@@ -14,3 +14,7 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/hellow2/', function () {
+    return view('HellowWorld');
+});
