@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    THE WORLD 
+                    STAR PLATINUM
                 </div>
 
                 <div class="links">
